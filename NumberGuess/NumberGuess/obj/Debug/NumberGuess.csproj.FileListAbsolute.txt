@@ -1,0 +1,69 @@
+C:\Documents and Settings\Administrator\桌面\Jd\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Documents and Settings\Administrator\桌面\Jd\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Documents and Settings\Administrator\桌面\Jd\NumberGuess\NumberGuess\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Jd\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Documents and Settings\Administrator\桌面\Jd\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.manifest
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.application
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.TrustInfo.xml
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe.manifest
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.application
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csproj.GenerateResource.Cache
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.manifest
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.application
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\ResolveAssemblyReference.cache
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.Properties.Resources.resources
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csproj.GenerateResource.Cache
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.TrustInfo.xml
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe.manifest
+F:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.application
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\ResolveAssemblyReference.cache
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.Properties.Resources.resources
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csproj.GenerateResource.Cache
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.manifest
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.application
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.TrustInfo.xml
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe.manifest
+C:\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.application
+C:\Edu\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Edu\JTUniversity\dotNet\08Project\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+F:\Net课件\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+F:\Net课件\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+F:\net\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+F:\net\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+F:\net\2\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.manifest
+F:\net\2\NumberGuess\NumberGuess\bin\Debug\NumberGuess.application
+F:\net\2\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+F:\net\2\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+F:\net\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csprojResolveAssemblyReference.cache
+F:\net\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.Properties.Resources.resources
+F:\net\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csproj.GenerateResource.Cache
+F:\net\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.TrustInfo.xml
+F:\net\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe.manifest
+F:\net\2\NumberGuess\NumberGuess\obj\Debug\NumberGuess.application
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.TrustInfo.xml
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.manifest
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.application
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe.manifest
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.application
